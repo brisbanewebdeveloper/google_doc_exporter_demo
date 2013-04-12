@@ -1,0 +1,14 @@
+#gdoc-info {
+    max-width: 600px;
+}
+footer {
+    padding-bottom: 20px;
+}
+form#gdoc-raw-data {
+}
+    form#gdoc-raw-data input {
+        margin-bottom: 10px;
+    }
+    form#gdoc-raw-data textarea {
+        height: 300px;
+    }
