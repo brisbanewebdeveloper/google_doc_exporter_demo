@@ -238,10 +238,14 @@ EOH;
 
 ?>
 <!doctype html>
-<html>
+<html lang="en">
 <head>
 <meta charset="utf-8">
-<script>document.cookie='resolution='+Math.max(screen.width,screen.height)+'; path=/';</script>
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+<title>Google Doc Exporter Demo</title>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="description" content="Demo site for Google Doc Exporter.">
+<meta name="author" content="Hiro Nozu">
 <link href="bootstrap/css/bootstrap.min.css" rel="stylesheet">
 <link href="bootstrap/css/bootstrap-responsive.min.css" rel="stylesheet">
 <link href="application.css" rel="stylesheet">
@@ -291,7 +295,7 @@ EOH;
         Copyright © 2013 Hiro Nozu (<a title="Web Developer Brisbane" href="http://hironozu.com/">http://hironozu.com</a>)
     </footer>
 </div>
-<script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
+<script src="http://code.jquery.com/jquery.js"></script>
 <script src="bootstrap/js/bootstrap.min.js"></script>
 <script src="application.js"></script>
 </body>
