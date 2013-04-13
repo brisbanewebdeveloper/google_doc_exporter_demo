@@ -255,7 +255,7 @@ EOH;
   m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
   })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
 
-  ga('create', 'UA-39856458-1', 'hironozu.com');
+  ga('create', 'UA-39856458-3', 'hironozu.com');
   ga('send', 'pageview');
 
 </script>
