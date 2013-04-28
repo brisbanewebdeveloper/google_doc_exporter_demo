@@ -40,8 +40,8 @@ $form_1 =<<<EOH
 </p>
 <p>Screenshots for settings:</p>
 <ul>
-    <li><a target="_screen_shot_1" href="http://note.io/XUPVkJ">http://note.io/XUPVkJ</a></li>
-    <li><a target="_screen_shot_2" href="http://note.io/ZCRxyS">http://note.io/ZCRxyS</a></li>
+    <li><a target="_screen_shot_1" href="http://d.pr/i/By0K">Setup Example 1</a></li>
+    <li><a target="_screen_shot_2" href="http://d.pr/i/XRbt">Setup Example 2</a></li>
 </ul>
 <input type="text" id="clientId" class="input-block-level" name="clientId" placeholder="Client ID" value="{$s['clientId']}" />
 <input type="text" id="clientSecret" class="input-block-level" name="clientSecret" placeholder="Client secret" value="{$s['clientSecret']}" />
